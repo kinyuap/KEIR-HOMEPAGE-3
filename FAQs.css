@@ -1,0 +1,42 @@
+html{
+  background-color: #ffffffe9;
+  border: #d8dae1;  
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-size-adjust:15px;
+  text-align:center; 
+}
+h1{
+text-align: center;
+text-transform: uppercase;
+color: rgba 0,0,0,0.10;
+background-color: #14b87f;
+padding:20px 0px 0px 0px;
+margin:auto;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+h4{  
+text-align: center;
+text-transform: uppercase;
+/* color: rgba 0,0,0,0.15; */
+margin:auto;
+border-radius: 4px;
+font-size: x-large;
+}
+ ul li {
+  font-size: 21px;
+  background-color: #a9e0b2;
+  border-radius: 5px;
+  padding: 5px 5px;
+  list-style: none;
+}
+ .p-description{
+  font-size: 19px;
+  letter-spacing: 0.4px;
+}
+
+.dropdown-content{
+  display: none;
+}
